@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">ArtFoodDelegate</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="forgetPassword">Forget password ?</string>
+    <string name="clickHere">Click here</string>
+    <string name="or">Or</string>
+    <string name="createAccount">Create account</string>
+    <string name="restorePassword">Restore password</string>
+    <string name="enterPhone">Enter your phone number to send the password recovery code</string>
+    <string name="sendCode">Send code</string>
+    <string name="enterCode">Enter the code sent on your phone to retrieve the password</string>
+    <string name="codeHere">Code here</string>
+    <string name="resendCode">I did not get it ! re-send</string>
+    <string name="newPassword">New password</string>
+    <string name="confirmNewPassword">Confirm new password</string>
+    <string name="email">Email</string>
+    <string name="contactUs">Contact us</string>
+    <string name="messageHint">Message text</string>
+    <string name="send">Send</string>
+    <string name="userName">User name</string>
+    <string name="termsAndCondition">Terms and conditions</string>
+    <string name="aboutUs">About us</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="delegateName">Delegate name</string>
+    <string name="profilePic">Profile picture</string>
+    <string name="uploadImage">Upload image</string>
+    <string name="identityImage">Identity image</string>
+    <string name="nationality">Nationality</string>
+    <string name="cityYouWantToWork">The city to work in</string>
+    <string name="bankName">Bank name</string>
+    <string name="Ipan">Ipan number</string>
+    <string name="typeOfVechical">the type of the vehicle</string>
+    <string name="vehicle_registration">vehicle registration</string>
+    <string name="vechicalPlateNumber">Vehicle plate number</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="accountCreated">Your account has been created successfully</string>
+    <string name="accountReviewed">Your account will be reviewed and we will get back to you as soon as possible</string>
+    <string name="acceptTerms">Accept terms and condition</string>
+    <string name="haveAccount">Do you have account ?</string>
+    <string name="myOrders">My orders</string>
+
+
+    <array name="nav_raw">
+        <item>Personal data</item>
+        <item>My orders</item>
+        <item>Portfolio</item>
+        <item>Using terms</item>
+        <item>About app</item>
+        <item>Contact us</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="save">Save</string>
+    <string name="disable">Disable</string>
+    <string name="enable">Enable</string>
+    <string name="workHour">Work hour per day</string>
+    <string name="fromTime">From time</string>
+    <string name="toTime">To time</string>
+    <string name="setTime">Set time</string>
+    <string name="timeFrom">The working time from the hour</string>
+    <string name="vechicleType">Type of vehicle</string>
+    <string name="map">Map</string>
+    <string name="done">Done</string>
+    <string name="youHaveAnewOrder">You have a new order</string>
+
+    <string name="productiveFamily">Productive family</string>
+    <string name="client">Client</string>
+    <string name="acceptOrder">Accept order</string>
+    <string name="oldPassword">Old password</string>
+    <string name="editPassword">Edit password</string>
+    <string name="editProfile">Edit profile</string>
+    <string name="editData">Edit data</string>
+    <string name="familyName">Family name</string>
+    <string name="familyAddress">Family address</string>
+    <string name="distanceBetweenFamily">Distance between family and delegate</string>
+    <string name="clientName">Client name</string>
+    <string name="clientAddress">Client address</string>
+    <string name="distanceBetweenclient">Distance between client and delegate</string>
+    <string name="deliveryCost">Delivery cost</string>
+    <string name="paymentWay">Payment way</string>
+    <string name="totalPrice">Total price</string>
+    <string name="amountTokenFromWallet">Amount token from wallet</string>
+    <string name="accept">Accept</string>
+    <string name="refuse">Refuse</string>
+    <string name="currentOrder">Current orders</string>
+    <string name="pastOrder">Past orders</string>
+    <string name="orderDetails">Order details</string>
+    <string name="orderStatus">Order status</string>
+    <string name="callClient">Call client</string>
+    <string name="operationNum">Operation number</string>
+    <string name="wallet">Wallet</string>
+    <string name="currentBalance">Your current balance</string>
+    <string name="balanceWithDraw">Recharge</string>
+    <string name="homeAndStatus">Home / status</string>
+    <string name="home">Home</string>
+    <string name="confirm">Confirm</string>
+    <string name="empty">Empty</string>
+    <string name="passwordNotMatches">Password not matches</string>
+    <string name="invalidEmail">Invalid email address</string>
+    <string name="phoneError">Phone number must be more than 10 numbers</string>
+    <string name="pleaseAcceptTerms">Please accept terms and conditions</string>
+    <string name="errorDateFormatFromTime">Error date format from time must be before current to time</string>
+    <string name="setVehicleType">Set vehicle type</string>
+    <string name="messageSent">Message sent successfully we will contact with you as soon as possiable</string>
+    <string name="errorPleaseTryAgain">Error please try again</string>
+    <string name="phoneNumberNotExist">Phone number not exist</string>
+    <string name="pleaseEnterCorrectCode">"Please enter correct code "</string>
+    <string name="passwordUpdatedSuccessfully">Password updated successfully</string>
+    <string name="clientRecieved">Done</string>
+    <string name="cash">Cash</string>
+    <string name="electronicPayment">Electronic payment</string>
+    <string name="orderDoneSuccessfully">Order done successfully</string>
+    <string name="oldPassworInCorrect">Old password is incorrect</string>
+    <string name="currency">SAR</string>
+    <string name="Request_credit">Request credit</string>
+    <string name="price">Price</string>
+
+    <string name="requestSent">Request sent successfully</string>
+    <string name="noAvaliableCharge">There is no available charge</string>
+    <string name="pleaseSetTimeAndVechile">Please set time and vechicle type</string>
+    <string name="cancelOrder">Cancel order</string>
+    <string name="orderCanceledSuccessfully">Order refuesed successfully</string>
+    <string name="familyLocation">Family location</string>
+    <string name="clientLocation">Client location</string>
+    <string name="callFamily">Call family</string>
+
+    <string name="pleaseSelectContactType">Please select contact type</string>
+    <string name="city">City</string>
+    <string name="vechileImage">Vehicle image</string>
+    <string name="orderDate">Delivery date</string>
+    <string name="mealPrice">Meal price</string>
+    <array name="complainType">
+        <item>Contact type</item>
+        <item>Complain</item>
+        <item>Suggestion</item>
+    </array>
+</resources>

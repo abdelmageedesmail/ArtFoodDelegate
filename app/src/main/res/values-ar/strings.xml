@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">تسجيل دخول</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgetPassword">نسيت كلمة المرور ؟</string>
+    <string name="clickHere">اضغط هنا</string>
+    <string name="or">أو</string>
+    <string name="createAccount">انشاء حساب جديد</string>
+    <string name="restorePassword">استرجاع كلمة المرور</string>
+    <string name="enterPhone">ادخل رقم هاتفك لإرسال كود استرجاع كلمة المرور</string>
+    <string name="sendCode">ارسال كود الإسترجاع</string>
+    <string name="enterCode">ادخل الكود المرسل على هاتفك لإسترجاع كلمة المرور</string>
+    <string name="codeHere">الكود هنا</string>
+    <string name="resendCode">لم يصلني ! اعد الإرسال</string>
+    <string name="newPassword">كلمة المرور الجديدة</string>
+    <string name="confirmNewPassword">تأكيد كلمة المرور الجديدة</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="contactUs">اتصل بنا</string>
+    <string name="messageHint">نص الرسالة</string>
+    <string name="send">إرسال</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="termsAndCondition">الشروط والاحكام</string>
+    <string name="aboutUs">عن التطبيق</string>
+    <string name="welcome">مرحبا</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="delegateName">اسم المندوب</string>
+    <string name="profilePic">صورة شخصية</string>
+    <string name="uploadImage">رفع صورة</string>
+    <string name="identityImage">صورة الهوية</string>
+    <string name="nationality">االجنسية</string>
+    <string name="cityYouWantToWork">المدينة المراد العمل بها</string>
+    <string name="bankName">اسم البنك</string>
+    <string name="Ipan">رقم الايبان</string>
+    <string name="typeOfVechical">نوع المركبة</string>
+    <string name="vehicle_registration">استمارة المركبة</string>
+    <string name="vechicalPlateNumber">رقم لوحة المركبة</string>
+    <string name="confirmPassword">تأكيد كلمة المرور</string>
+    <string name="accountCreated">تم انشاء حسابك بنجاح</string>
+    <string name="accountReviewed">سيتم مراجعة حسابك والرد عليك في اقرب وقت</string>
+    <string name="save">حفظ</string>
+
+
+    <string name="acceptTerms">أوافق على كل الشروط والأحكام</string>
+    <string name="haveAccount">لديك حساب بالفعل ؟</string>
+    <string name="disable">تعطيل</string>
+    <string name="enable">تفعيل</string>
+    <string name="workHour">ساعات العمل خلال اليوم</string>
+    <string name="fromTime">من الساعه</string>
+    <string name="toTime">الي الساعة</string>
+    <string name="setTime">تحديد الوقت</string>
+    <string name="timeFrom">وقت العمل من الساعه</string>
+    <string name="vechicleType">تحديد نوع المركبة</string>
+    <string name="map">الخريطة</string>
+    <string name="done">تم</string>
+    <string name="youHaveAnewOrder">لديك طلب جديد</string>
+    <string name="productiveFamily">الاسرة المنتجة</string>
+    <string name="client">العميل</string>
+    <string name="acceptOrder">قبول الطلب</string>
+    <string name="oldPassword">كلمة المرور القديمة</string>
+    <string name="editPassword">تعديل كلمة المرور</string>
+    <string name="editProfile">تعديل البيانات</string>
+    <string name="editData">تعديل البيانات</string>
+    <string name="familyName">اسم الاسرة</string>
+    <string name="familyAddress">عنوان الاسرة</string>
+    <string name="distanceBetweenFamily">المسافة بين الاسرة والمندوب</string>
+    <string name="clientName">اسم العميل</string>
+    <string name="clientAddress">عنوان العميل</string>
+    <string name="distanceBetweenclient">المسافة بين العميل والمندوب</string>
+    <string name="deliveryCost">سعر التوصيل</string>
+    <string name="paymentWay">طريقة الدفع</string>
+    <string name="totalPrice">السعر الاجمالى</string>
+    <string name="amountTokenFromWallet">المبلغ المخصوم من المحفظة</string>
+    <string name="accept">قبول</string>
+    <string name="refuse">رفض</string>
+    <string name="currentOrder">الطلبات الحالية</string>
+    <string name="pastOrder">الطلبات السابقة</string>
+    <string name="orderDetails">تفاصيل الطلب</string>
+    <string name="orderStatus">حالة الطلب</string>
+    <string name="callClient">اتصال بالعميل</string>
+    <string name="operationNum">رقم العملية</string>
+    <string name="wallet">المحفظة</string>
+    <string name="currentBalance">رصيدك الحالى</string>
+    <string name="balanceWithDraw">شحن الرصيد</string>
+    <string name="myOrders">توصيلاتي</string>
+    <string name="homeAndStatus">الرئيسية / الحالة</string>
+    <string name="home">الرئيسية</string>
+    <string name="confirm">تأكيد</string>
+    <string name="empty">فارغ</string>
+    <string name="passwordNotMatches">كلمتا المرور غير متطابقتين</string>
+    <string name="invalidEmail">بريد الكترونى غير صحيح</string>
+    <string name="phoneError">رقم الجوال يجب ان يكون اكبر من 10 ارقام</string>
+    <string name="pleaseAcceptTerms">برجاء الموافقه على الشروط والاحكام</string>
+    <string name="errorDateFormatFromTime">خطأ فى صيغة الوقت يجب ان يكون بعد التاريخ الحالى</string>
+    <string name="setVehicleType">اختر نوع السياره</string>
+    <string name="messageSent">تم ارسال الرساله بنجاح وسوف نتواصل معك فى اقرب وقت ممكن</string>
+    <string name="errorPleaseTryAgain">خطأ برجاء المحاولة مره اخرى</string>
+    <string name="phoneNumberNotExist">رقم الجوال غير موجود</string>
+    <string name="pleaseEnterCorrectCode">برجاء ادخال كود صحيح</string>
+    <string name="passwordUpdatedSuccessfully">تم تعديل كلمة المرور بنجاح</string>
+    <string name="clientRecieved">تم استلام العميل</string>
+    <string name="cash">كاش</string>
+    <string name="electronicPayment">دفع الكترونى</string>
+    <string name="orderDoneSuccessfully">تم انهاء الطلب بنجاح</string>
+    <string name="oldPassworInCorrect">كلمة المرور القديمة غير صحيحة</string>
+    <string name="currency">ريال سعودى</string>
+    <string name="Request_credit">طلب رصيد</string>
+    <string name="price">السعر</string>
+    <string name="requestSent">تم ارسال الطلب بنجاح</string>
+    <string name="noAvaliableCharge">لا يوجد رصيد متاح</string>
+    <string name="pleaseSetTimeAndVechile">برجاء تحديد الوقت ونوع المركبة</string>
+    <string name="cancelOrder">الغاء الطلب</string>
+    <string name="orderCanceledSuccessfully">تم رفض الطلب بنجاح</string>
+    <string name="familyLocation">موقع الاسره</string>
+    <string name="clientLocation">موقع العميل</string>
+    <string name="callFamily">اتصال بالاسرة</string>
+    <string name="pleaseSelectContactType">برجاء اختيار نوع التواصل</string>
+    <string name="city">المدينه</string>
+    <string name="vechileImage">صورة المركبه</string>
+    <string name="orderDate">تاريخ التوصيل</string>
+    <string name="mealPrice">سعر الوجبه</string>
+    <array name="complainType">
+        <item>نوع الشكوى</item>
+        <item>شكوى</item>
+        <item>اقتراح</item>
+    </array>
+
+    <array name="nav_raw">
+        <item>البيانات الشخصية</item>
+        <item>توصيلاتي</item>
+        <item>المحفظة</item>
+        <item>شروط الاستخدام</item>
+        <item>عن التطبيق</item>ا
+        <item>اتصل بنا</item>
+    </array>
+</resources>
